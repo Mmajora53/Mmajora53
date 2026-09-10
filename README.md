@@ -11,7 +11,7 @@ Specialising in computer vision and deep learning, I am pursuing a Master’s de
 
 ### Explore my portfolio
 
-👉 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-8b5cf6?style=for-the-badge&logo=react&logoColor=white)](https://mmajora53.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-8b5cf6?style=for-the-badge&logo=react&logoColor=white)](https://mmajora53.github.io/portfolio/)
 
 ### Featured projects : 
 
