@@ -7,7 +7,13 @@ Specialising in computer vision and deep learning, I am pursuing a Master’s de
 
 ### Purpose :
 
-**Objective :** --
+**Objective :** a 4- to 6-months internship starting in February 2027.
+
+### Explore my portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-8b5cf6?style=for-the-badge&logo=react&logoColor=white)](https://mmajora53.github.io/portfolio/)
+
+👉 [https://mmajora53.github.io/portfolio/](https://mmajora53.github.io/portfolio/)
 
 ### Featured projects : 
 
