@@ -1,8 +1,5 @@
 # Hello, I'm Maria 👋
 
-<img width="558" height="420" alt="EB742FCD-4430-4BF6-9587-3BC49FD768F6_1_105_c" src="https://github.com/user-attachments/assets/743b6426-0578-406a-9713-ca392d260daf" />
-
-
 Specialising in computer vision and deep learning, I am pursuing a Master’s degree in Vision and Machine Intelligence (VMI) at Université Paris Cité, in Paris.
 
 ### Purpose :
